@@ -1,3 +1,4 @@
 def calculator
-  first_number = 10 
+  first_number = 1
+  second_number = 2
 end 
